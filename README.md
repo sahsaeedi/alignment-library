@@ -12,7 +12,7 @@
 
 **Training language models to follow instructions with human feedback (RLHF)**
 
-![](https://img.shields.io/badge/arXiv-2023-skyblue?colorstyle=plastic) [![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.48550/arXiv.1706.03762-sandybrown?style=flat-square?&style=plastic)](https://arxiv.org/abs/2203.02155) [![PDF-Download](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2203.02155.pdf)
+![](https://img.shields.io/badge/arXiv-2022-skyblue?colorstyle=plastic) [![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.48550/arXiv.1706.03762-sandybrown?style=flat-square?&style=plastic)](https://arxiv.org/abs/2203.02155) [![PDF-Download](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2203.02155.pdf)
 
 <details>
 <summary><img src="https://img.shields.io/badge/ABSTRACT-9575cd?&style=plastic"/></summary>
