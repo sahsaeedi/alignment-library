@@ -1,6 +1,6 @@
 # Large Vision/Language/Vision-Language Models
 <p align="center">
-  <img src="./src/img/logo.png" width='480' />
+  <img src="./src/img/logo.png" width='220' />
 </p>
 ## Alignment
 **Direct Preference Optimization (DPO): Your Language Model is Secretly a Reward Model**
