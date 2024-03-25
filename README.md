@@ -1,3 +1,4 @@
+# Large Language Models
 <p align="center">
   <img src="./src/img/logo2.png" width='200' />
 </p>
@@ -6,7 +7,6 @@
   <a href="https://openai.com/dall-e-3" rel="nofollow">DALL-E 3</a>
 </p>
 
-# Large Language Models
 ---
 ## Alignment
 ### Main Papers
